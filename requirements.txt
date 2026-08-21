@@ -6,3 +6,5 @@ chromadb
 python-dotenv
 tiktoken 
 langchain-groq
+sentence-transformers
+
