@@ -11,6 +11,6 @@ def get_llm():
     # Initialize Groq LLM
     return ChatGroq(
         groq_api_key=groq_api_key,
-        model_name="openai/gpt-oss-20b",
+        model_name="groq/compound",
         temperature=0.7
     )
