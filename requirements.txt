@@ -8,4 +8,7 @@ tiktoken
 langchain-groq
 sentence-transformers
 torchvision
+groq>=0.9.0
+streamlit
+
 
